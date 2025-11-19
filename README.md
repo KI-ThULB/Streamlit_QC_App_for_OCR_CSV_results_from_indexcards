@@ -1,0 +1,1 @@
+# Streamlit_QC_App_for_OCR_CSV_results_from_indexcards
