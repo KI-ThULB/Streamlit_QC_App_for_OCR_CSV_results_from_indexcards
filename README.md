@@ -374,10 +374,6 @@ project-root/
 - Assign batch reviews to team members
 - Track correction progress in Overview mode
 
-## Licensing & Attribution
-
-[Add your project's license information here]
-
 ## Contributors
 
 ThULB KI-Team, Thuringian University and State Library (ThULB), Jena, Germany
